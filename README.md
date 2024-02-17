@@ -1,3 +1,5 @@
+<img align="center" src="" />
+
 <h1 align="center">Hi 👋, I'm Anton Zhilin</h1>
 <h3 align="center">A passionate HTML developer from Russia, Moskow</h3>
 
