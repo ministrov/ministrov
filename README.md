@@ -33,7 +33,7 @@ Since then I pushed **2944**+ commits, opened **229**+ issues, submitted **375**
 
 ### I’m currently working on this project:
 
-                                           ![Alt text](yeticave.jpg)
+![Alt text](yeticave.jpg)
 
 
 - This is a simple service that allows users to sell their personal belongings at the most advantageous price for them, based on an auction system
