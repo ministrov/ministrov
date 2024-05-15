@@ -1,7 +1,7 @@
 <img align="center" src="https://github.com/ministrov/ministrov/blob/main/HTML%20developer.webp" />
 
 <h1 align="center">Hi 👋, I'm Anton Zhilin</h1>
-<h3 align="center">A passionate HTML developer from Russia, Moskow</h3>
+<h3 align="center">A passionate Frontend developer from Russia, Moskow</h3>
 
 I am a Frontend developer currently working on the OOO Service Market with a mission to revolutionize web development for small businesses. 🚀
 
