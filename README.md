@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Anton Zhilin</h1>
 <h3 align="center">A passionate HTML developer from Russia, Moskow</h3>
 
-I am a HTML developer currently leading the OOO Service Market with a mission to revolutionize web development for small businesses. 🚀
+I am a Frontend developer currently working on the OOO Service Market with a mission to revolutionize web development for small businesses. 🚀
 
 I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in HTML, CSS, Javascript, etc. I have developed more than 16 complex, cross-browser, and responsive websites and landing pages for small businesses together with a team. I increased the performance of the websites by 15% by optimizing fonts and raster graphics. One of them that I can show is an online service for selling water purification devices for homes and offices at http://waterdel.ru/. Non-disclosure agreements are in place for the rest..
 
