@@ -18,7 +18,8 @@ Since then I pushed **2944**+ commits, opened **229**+ issues, submitted **375**
 ### Talking about Personal Stuff:
 
 - 🛠 &nbsp; I’m currently working with HTML5, CSS 3, BEM, Sass, Less, Scss, PUG, Pixel-Perfect, WAI-ARIA, SVG, JavaScript(ES6), Git, Swiper.js, Lighthouse etc.
-- 🚀 &nbsp; I’m currently exploring PHP, MySQL DBMS, SQL, HTTP protocol, Composer, OOP, OOP Architecture, Yii 2, DI/IOC and design patterns, Laravel, REST API, Eloquent models and relationships, Laravel Sanctum, Algorithms and data structures, React, Redux, React-redux, Redux (RTK Query, Redux-Toolkit), TypeScript (Utility Types, Generics, Literal Types), Next.js, Scrum, Testing (Unit, integration, e2e), Docker.
+- 🚀 &nbsp; I have strong knoledges in JavaScript ES2023+, Redux, React-Redux, Redux Toolkit + RTK Query, TypeScript, axios, REST API, OpenApi (swagger), dayjs, Char.js, styled-components, material-ui, FORMIK
+- 🚀 &nbsp; I have basic knoledges in PHP, MySQL DBMS, SQL, HTTP protocol, Composer, OOP, OOP Architecture, Yii 2, DI/IOC and design patterns, Laravel, REST API, Eloquent models and relationships, Laravel Sanctum, Algorithms and data structures, React, Redux, React-redux, Redux (RTK Query, Redux-Toolkit), TypeScript (Utility Types, Generics, Literal Types), Next.js, Scrum, Testing (Unit, integration, e2e), Docker.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
 - 📫 &nbsp; Reach me out: antonzhilin83@yandex.ru.
 
