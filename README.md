@@ -28,7 +28,16 @@ Since then I pushed **2944**+ commits, opened **229**+ issues, submitted **375**
 <h3 align="left">Connect with me:</h3>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescriptlang" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" alt="nextjs" width="40" height="40"/> </a> <a href="redux" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-ar21.svg" alt="redux" width="40" height="40"/> </a> </p>
+
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescriptlang" width="40" height="40"/> 
+</p>
+<p align="left"> 
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" alt="nextjs" width="40" height="40"/>
+</p>
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-ar21.svg" alt="redux" width="40" height="40"/>
+</p>
 
 ### I’m currently working on this project:
 
