@@ -1,5 +1,3 @@
-<img align="center" src="https://github.com/ministrov/ministrov/blob/main/HTML%20developer.webp" />
-
 <h1 align="center">Greetings, Esteemed Colleagues! 👋, I'm Anton Zhilin</h1>
 <h3 align="center">A passionate Frontend developer from Russia, Moskow</h3>
 
@@ -30,13 +28,10 @@ Since then I pushed **2944**+ commits, opened **229**+ issues, submitted **375**
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescriptlang" width="40" height="40"/> 
-</p>
-<p align="left"> 
-  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" alt="nextjs" width="40" height="40"/>
-</p>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-ar21.svg" alt="redux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescriptlang" width="60" height="60"/> 
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="reactjs" width="80" height="80"/> 
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" alt="nextjs" width="80" height="80"/>
+  <img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-ar21.svg" alt="redux" width="80" height="80"/>
 </p>
 
 ### I’m currently working on this project:
