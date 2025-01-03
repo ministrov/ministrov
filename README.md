@@ -13,9 +13,9 @@ Since then I pushed **2944**+ commits, opened **229**+ issues, submitted **375**
 
 ### Talking about Personal Stuff:
 
-🚀 &nbsp; I’m currently working with TypeScript, Next.js, ReduxToolkit, Zustand, Scrum.
-👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
-📫 &nbsp; Reach me out: antonzhilin83@yandex.ru.
+- 🚀 &nbsp; I’m currently working with TypeScript, Next.js, ReduxToolkit, Zustand, Scrum.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
+- 📫 &nbsp; Reach me out: antonzhilin83@yandex.ru.
 
 ### My Absolute Favorites:
 
