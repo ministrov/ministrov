@@ -41,6 +41,8 @@ Since then I pushed **2944**+ commits, opened **229**+ issues, submitted **375**
 
 ### I’m currently working on this project:
 
-![Alt text](yeticave.jpg)
+## Online service for rating assessment and comparison of the best products and services based on expert opinion, user voting, reviews, and testimonials.
+
+![Alt text](ratingus.jpg)
 
 
