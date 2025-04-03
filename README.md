@@ -39,9 +39,9 @@ Since then I pushed **2944**+ commits, opened **229**+ issues, submitted **375**
 
 ### I’m currently working on this project:
 
-#Online service for rating assessment and comparison of the best products and services based on expert opinion, user voting, reviews, and testimonials.
+#Online platform to choose courses.
 
-![Alt text](ratingus.jpg)
+![Alt text](top-app.png)
 
 ### This project was done:
 
